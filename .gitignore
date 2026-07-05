@@ -1,0 +1,15 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MS Office / Excel Temp Lock Files
+~$*.xlsx
+~$*.xls
+
+# OS-specific files
+Thumbs.db
+.DS_Store
